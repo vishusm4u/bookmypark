@@ -1,0 +1,8 @@
+{
+  "name": "bookmy",
+  "app_id": "98e2da56",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
